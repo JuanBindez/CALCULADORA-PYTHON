@@ -1,3 +1,11 @@
+'''
+Author: www.github.com/JuanBindez
+Description:
+Python Version: 3.10
+year: 2022
+Local: Brazil
+'''
+
 from colors import Color
 import time
 import os
